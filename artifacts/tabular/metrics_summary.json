@@ -1,0 +1,32 @@
+[
+  {
+    "model":"RandomForestRegressor",
+    "task":"next-day max temp",
+    "metric":"RMSE",
+    "value":7.2038441552
+  },
+  {
+    "model":"RandomForestRegressor",
+    "task":"next-day max temp",
+    "metric":"MAE",
+    "value":5.5575006046
+  },
+  {
+    "model":"RandomForestRegressor",
+    "task":"next-day max temp",
+    "metric":"R2",
+    "value":0.8770701668
+  },
+  {
+    "model":"RandomForestClassifier",
+    "task":"next-day storm",
+    "metric":"Accuracy",
+    "value":1.0
+  },
+  {
+    "model":"RandomForestClassifier",
+    "task":"next-day storm",
+    "metric":"F1",
+    "value":0.0
+  }
+]

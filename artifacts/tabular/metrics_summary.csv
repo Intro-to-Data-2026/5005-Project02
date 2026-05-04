@@ -1,0 +1,6 @@
+model,task,metric,value
+RandomForestRegressor,next-day max temp,RMSE,7.203844155245116
+RandomForestRegressor,next-day max temp,MAE,5.557500604594919
+RandomForestRegressor,next-day max temp,R2,0.877070166826257
+RandomForestClassifier,next-day storm,Accuracy,1.0
+RandomForestClassifier,next-day storm,F1,0.0
